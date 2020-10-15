@@ -6,7 +6,7 @@ Are you a fan of combat robotics? When you watch a match, do you think to yourse
 
 ### How does it work?
 
-We regularly run tournaments on advancedrobotcombat.com (and sometimes on reddit) and we'd love to have you join. To enter a tournament, you'll need a picture of your design(s), a description of what your robot does, and a set of stats (we'll get into those shortly.) Many people use CAD software to render their ideas, but others draw them by hand or even build them out of LEGO.
+We regularly run tournaments on https://advancedrobotcombat.com (and sometimes on reddit at /r/RPRoomFBB) and we'd love to have you join. To enter a tournament, you'll need a picture of your design(s), a description of what your robot does, and a set of stats (we'll get into those shortly.) Many people use CAD software to render their ideas, but others draw them by hand or even build them out of LEGO.
 
 Once the tournament starts, you'll have a weekly match (or matches, depending on the tournament) against other participants. Each of you will write up a short summary of the strategy you'll use against your opponent and how you plan to defeat them, and then our team of experienced writers will figure out whose strategy and design wins them the match, writing up a short summary of how the fight went.
 
